@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "b8508938-f267-88e4-40ff-3d2a4554cc98",
+  "instructors": {
+    "content": [
+      "c17ccae9-0b36-3812-df99-02994dd1783b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3f2c8b5f-012d-7639-58c1-f77f19ac2f80",
+    "website": "18-969-topics-in-geometry-dirac-geometry-fall-2006"
+  },
+  "course_title": "Topics in Geometry: Dirac Geometry",
+  "hide_download": true,
+  "course_description": "This is an introductory (i.e. first year graduate students are welcome and expected) course in generalized geometry, with a special emphasis on Dirac geometry, as developed by Courant, Weinstein, and Severa, as well as generalized complex geometry, as introduced by Hitchin. Dirac geometry is based on the idea of unifying the geometry of a Poisson structure with that of a closed 2-form, whereas generalized complex geometry unifies complex and symplectic geometry. For this reason, the latter is intimately related to the ideas of mirror symmetry.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.969",
+  "course_image_thumbnail": {
+    "content": "ae8149d8-9d40-0a4c-44b1-b855c8f54a9c",
+    "website": "18-969-topics-in-geometry-dirac-geometry-fall-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "60aa28e5-9654-4f60-896b-b3a17b0cbc38",
+  "site_short_id": "18.969-fall-2006",
+  "site_url_path": "courses/18-969-topics-in-geometry-dirac-geometry-fall-2006",
+  "title": "Course Metadata"
+}
